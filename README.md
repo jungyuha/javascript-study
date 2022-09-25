@@ -1,9 +1,3 @@
----
-description: 자바스크립트에서 클래스를 생성하는 다양한 방법과 Getter , Setter를 제대로 활용하기
-cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
----
 
 # 다양한 Class 생성 방법과 Getter Setter
 
