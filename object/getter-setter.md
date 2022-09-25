@@ -4,6 +4,14 @@
 
 아래에서 차근차근 살펴보도록 하자 !
 
+**기록 ✍️**
+
+#### author : jung yuha
+
+#### first registered : 2022-09-01
+
+#### last modified : 2022-09-24 Sat.
+
 ## \[1] Getter,Setter가 있는 class의 변수를 참조하는 과정
 
 ### Getter,Setter가 있는 class 예시

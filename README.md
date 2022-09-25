@@ -7,6 +7,14 @@ coverY: 0
 
 # 다양한 Class 생성 방법과 Getter Setter
 
+**기록 ✍️**
+
+#### author : jung yuha
+
+#### first registered : 2022-09-01
+
+#### last modified : 2022-09-24 Sat.
+
 ## \[1] getter , setter 없이 생성자에서 각 값에 null 할당하여 Class 선언하기&#x20;
 
 getter , setter 없이 생성자에서 각 값에 널값을 **할당**하다면 처음 인스턴스가 생성될 때 a 와 b 값은 어떤 형태로 있을지 궁금했다.

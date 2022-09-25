@@ -4,7 +4,15 @@ description: Sort를 사용하여 Object를 Key 기준으로 정렬하기
 
 # Sort를 사용하여 Object를 Key 기준으로 정렬하기
 
-## \[예사] 아래 객체를 'Key\` 기준으로 정렬하는 방법 ! <a href="#q-key" id="q-key"></a>
+**기록 ✍️**
+
+#### author : jung yuha
+
+#### first registered : 2022-09-24 Sat.
+
+#### last modified : 2022-09-24 Sat.
+
+## \[예시] 아래 객체를 'Key\` 기준으로 정렬하는 방법 ! <a href="#q-key" id="q-key"></a>
 
 ```javascript
 {

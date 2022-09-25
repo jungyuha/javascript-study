@@ -6,6 +6,14 @@ coverY: 0
 
 # 프로토타입의 원리와 함께 class 변수 값 가공하기(작성중)
 
+**기록 ✍️**
+
+#### author : jung yuha
+
+#### first registered : 2022-09-01
+
+#### last modified : 2022-09-24 Sat.
+
 ## 내가 Class에서 변수값을 계산하다가 헤맨 이유&#x20;
 
 1. **생성자를 통해 a , b, c 변수값을 초기화** 를 하고난 뒤에
