@@ -33,7 +33,7 @@ Object.keys(obj);
 // ["a1", "a2", "a3",....]
 ```
 
-### 2.  sort()로 정렬 시도하기 <a href="#1-objectkeys-key" id="1-objectkeys-key"></a>
+### 2.  sort()로 정렬 하기 <a href="#1-objectkeys-key" id="1-objectkeys-key"></a>
 
 ```js
 Object.keys(object).sort()
